@@ -11,3 +11,7 @@ git clone https://github.com/bogdan-raduta/a-million-times.git
 cd a-million-times
 yarn start
 ```
+
+## Original Project  
+See the original project:
+[malte-wessel/a-million-times](https://github.com/malte-wessel/a-million-times)
